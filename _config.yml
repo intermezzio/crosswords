@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+remote_theme: rhl-bthr/parchment
 destination: /crosswords/
 
 title: Crossword Puzzles
